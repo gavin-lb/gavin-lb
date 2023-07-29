@@ -7,7 +7,7 @@ I'm re-doing my github profile and have privated most of my old projects.
  - [`vue3-flag-icons`](https://github.com/gavin-lb/vue3-flag-icons): A TypeScript-compatible Vue3 component library for providing flag icons.
    -  Built with Vite
    -  Published to NPM
-   -  Full TypeScript support with custom types generated from non-TypeScript compatible dependacy by a node.js script
+   -  Full TypeScript support with custom types generated from non-TypeScript-compatible dependacy by a node.js script
 
 - `grape-chess`: a (currently private) fullstack chess webapp project. 
 
