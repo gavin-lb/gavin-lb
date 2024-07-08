@@ -8,7 +8,7 @@
 - `grape-chess`: a (currently private) fullstack chess webapp project. 
 
   - The front end is written in TypeScript in the Vue3 framework. It: 
-    - is a SPA that using Vue Router, 
+    - is a SPA that uses the Vue Router, 
     - utilises Vuetify library for UI components,
     - uses vue3-chessboard (a Vue3 component library of which [I am a contributor](https://github.com/qwerty084/vue3-chessboard/commits?author=gavin-lb))
      
