@@ -1,8 +1,4 @@
-# Hi there 👋
-
-I'm re-doing my github profile and have privated most of my old projects.
-
-### Projects:
+## Some Projects:
 
  - [`vue3-flag-icons`](https://github.com/gavin-lb/vue3-flag-icons): A TypeScript-compatible Vue3 component library for providing flag icons.
    -  Built with Vite,
