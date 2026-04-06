@@ -1,6 +1,6 @@
 ## Some Projects:
 
-- [`manus-mortis`](https://github.com/gavin-lb/manus-mortis): A fullstack discord app and web portal built for [gadget.dev](https://gadget.dev/) serverless architecture.
+- [`manus-mortis`](https://github.com/gavin-lb/manus-mortis): A fullstack discord app and OAuth web portal built for serverless architecture.
    - Backend discord bot API written in TypeScript running on Node with Fastify:
      - Bespoke ticketing and application system handling thousands of end users,
      - Various custom features including: reward point system with leaderboards, user call-to-action system, customisable welcome message system,
