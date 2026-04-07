@@ -13,6 +13,13 @@
    -  Full TypeScript support with types generated from a dependency by a custom script,
    -  Built with Vite,
    -  [Published to NPM](https://www.npmjs.com/package/vue3-flag-icons) with over 1000 weekly downloads.
+  
+ - [`wireguard-setup`](https://github.com/gavin-lb/wireguard-setup): A bash script for setting up a secure WireGuard VPN server installation on a freshly deployed Debian based system.
+   - Updates system and enables automatic security updates
+   - Installs and configures WireGuard
+   - Generates secure key for server & client
+   - Installs and configures nftables firewall for NAT + IP forwarding
+   - Provides client configuration in plaintext and QR code for mobile devices
 
 - `grape-chess`: a (currently private) fullstack chess webapp project. 
 
