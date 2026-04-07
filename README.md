@@ -14,7 +14,7 @@
    -  Built with Vite,
    -  [Published to NPM](https://www.npmjs.com/package/vue3-flag-icons) with over 1000 weekly downloads.
   
- - [`wireguard-setup`](https://github.com/gavin-lb/wireguard-setup): A bash script for setting up a secure WireGuard VPN server installation on a freshly deployed Debian based system.
+ - [`wireguard-setup`](https://github.com/gavin-lb/wireguard-setup): A bash script for secure WireGuard setup on a fresh Debian based system.
    - Updates system and enables automatic security updates
    - Installs and configures WireGuard
    - Generates secure key for server & client
