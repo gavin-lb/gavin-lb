@@ -1,5 +1,11 @@
 ## Some Projects:
 
+- [`haggle-helper`](https://github.com/gavin-lb/haggle-helper): A Java plugin for the [RuneLite client](https://github.com/runelite/runelite), integrating with a large event-driven desktop application through its plugin API.
+   - Built with Java 11 and Gradle, using dependency injection, event-driven architecture, and Swing-based UI components,
+   - Implements custom overlays, interface integration, and real-time state tracking using the RuneLite API,
+   - Generates a static JSON data file by consuming the [OSRS Wiki Bucket API](https://oldschool.runescape.wiki/w/RuneScape:Bucket) with custom Groovy build scripts integrated into the Gradle build process,
+   - Distributed through the [RuneLite Plugin Hub](https://runelite.net/plugin-hub/show/haggle-helper) and maintained with automated versioning and release tooling.
+
 - [`manus-mortis`](https://github.com/gavin-lb/manus-mortis): A fullstack discord app and OAuth web portal built for serverless architecture.
    - Backend discord bot API written in TypeScript running on Node with Fastify:
      - Bespoke ticketing and application system handling thousands of end users,
